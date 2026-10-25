@@ -23,35 +23,35 @@ Jenkins, Docker, Node.js, GitHub
 Jenkins dashboard:
 
 
-![Dashboard](1.png)
+![Dashboard](1.png.png)
 
 
 
 Pipeline stages:
 
 
-![Pipeline](2.png)
+![Pipeline](2.png.png)
 
 
 
 Build #2 triggered by SCM change:
 
 
-![Trigger](3.png)
+![Trigger](3.png.png)
 
 
 
 Deployed app on localhost:3000:
 
 
-![App](4.png)
+![App](4.png.png)
 
 
 
 Console output (SUCCESS):
 
 
-![Console](5.png)
+![Console](5.png.png)
 
 
 
